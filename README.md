@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Samira Siddiqua  
-### **Quality Assurance Engineer | Test Automation Specialist | Agile Tester**  
+# 🌟 **Samira Siddiqua** | Quality Alchemist 🔬
+### **QA | Test Automation | Agile Testing**  
 
 [![Email](https://img.shields.io/badge/Email-samira.siddiqua@gmail.com-blue?style=flat&logo=gmail)](mailto:samira.siddiqua@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samira-siddiqua/)  
