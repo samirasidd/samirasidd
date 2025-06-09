@@ -1,4 +1,4 @@
-# 🌟 **Samira Siddiqua** | Quality Alchemist 🔬
+# Samira Siddiqua
 ### **QA | Test Automation | Agile Testing**  
 
 [![Email](https://img.shields.io/badge/Email-samira.siddiqua@gmail.com-blue?style=flat&logo=gmail)](mailto:samira.siddiqua@gmail.com)  
