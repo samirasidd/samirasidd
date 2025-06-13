@@ -7,7 +7,7 @@
 ---
 
 ## 🔍 **About Me**  
-I’m an **SQA Engineer** passionate about ensuring software reliability through:  
+An **SQA Engineer** passionate about ensuring software reliability through:  
 ✅ **Manual & API Testing** (Postman, SQL)  
 ✅ **Test Automation** (Selenium, Cypress, Appium)  
 ✅ **Security/Performance Testing** (OWASP ZAP, JMeter)  
