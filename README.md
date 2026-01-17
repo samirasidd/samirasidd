@@ -1,5 +1,5 @@
 # Samira Siddiqua
-### **Software Quality Assurance Engineer | Automation & API Testing*  
+### **Software Quality Assurance Engineer | Automation & API Testing**  
 
 [![Email](https://img.shields.io/badge/Email-samira.siddiqua@gmail.com-blue?style=flat&logo=gmail)](mailto:samira.siddiqua@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samira-siddiqua/)  
@@ -26,7 +26,10 @@ Background in Electronics Engineering, bringing analytical rigor to quality assu
 - Uncovered **19 critical defects** (e.g., email verification flaws, mobile UI breaks).  
 📄 [Test Documentation](https://github.com/samirasidd/manual-testing-project)  
 
-### **QA Principles**  
+
+---
+
+## **QA Principles**  
 - Clarity over test volume
 
 - Automation that lasts
