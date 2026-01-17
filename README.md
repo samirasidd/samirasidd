@@ -1,5 +1,5 @@
 # Samira Siddiqua
-### Software Quality Assurance Engineer | Automation & API Testing
+**Software Quality Assurance Engineer | Automation & API Testing**
 
 [![Email](https://img.shields.io/badge/Email-samira.siddiqua@gmail.com-blue?style=flat&logo=gmail)](mailto:samira.siddiqua@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samira-siddiqua/)  
