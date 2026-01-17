@@ -29,11 +29,3 @@ Background in Electronics Engineering, bringing analytical rigor to quality assu
 
 ---
 
-## **QA Principles**  
-- Clarity over test volume
-
-- Automation that lasts
-
-- Bugs are signals, not noise
-
----
