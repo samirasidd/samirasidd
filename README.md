@@ -23,7 +23,7 @@ Background in Electronics Engineering, bringing analytical rigor to quality assu
 
 **🚛 Truck Booking Platform Testing**  
 - Created **100+ end-to-end test** cases using mind maps
-- Uncovered **19 critical defects** (e.g., email verification flaws, mobile UI breaks).  
+- Uncovered **19 defects** (e.g., email verification flaws, mobile UI breaks).  
 📄 [Test Documentation](https://github.com/samirasidd/manual-testing-project)  
 
 
