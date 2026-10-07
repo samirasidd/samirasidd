@@ -12,11 +12,11 @@ I test beyond the happy path, focusing on **automation, API behavior, access con
 
 ## Featured Projects
 
-**🚛 Truck Booking Platform**  
-106 test cases • 19 defects • End-to-end & cross-browser testing
-
 **🛒 Saleor Open Source QA**  
 Production bug identified • Playwright automation • GitHub Actions CI
 
 **⚙️ Saleskoi Automation**  
 101 automated tests • 19 modules • Full regression in **5m 40s**
+
+**🚛 Truck Booking Platform**  
+106 test cases • 19 defects • End-to-end & cross-browser testing
