@@ -17,7 +17,3 @@ PR merge-gating • PostHog error tracking • Instant feature-flag rollbacks
 
 **⚙️ Saleskoi Automation**  
 101 automated tests • 19 modules • Full regression in **5m 40s**
-
-**🛒 Saleor Open Source QA**  
-Production bug identified • Playwright automation • GitHub Actions CI
-
