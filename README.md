@@ -12,7 +12,7 @@ I test beyond the happy path, focusing on automation, API behavior, access contr
 
 ## Featured Projects
 
-**🚀 Shipped**  
+**🚀 shipped**  
 PR merge-gating • PostHog error tracking • Instant feature-flag rollbacks
 
 **⚙️ Saleskoi Automation**  
