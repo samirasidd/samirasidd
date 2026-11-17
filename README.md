@@ -18,9 +18,9 @@ PR merge-gating • PostHog error tracking • Instant feature-flag rollbacks
 **⚙️ Saleskoi Automation**  
 101 automated tests • 19 modules • Full regression in **5m 40s**
 
-**🧩 Open-Source Contributions**
-PRs merged into active repositories: Beacon (token detection tests), Pangolin (CI pipeline integration), & Akaunting (invoice tax regression tests).
+**🧩 Open-Source Contributions**  
+Merged PRs: Beacon (token tests) • Pangolin (CI pipeline) • Akaunting (tax regression)  
 
-Beacon: github.com/Asymptote-Labs/agent-beacon/pull/1242
-Pangolin: github.com/fosrl/pangolin/pull/3971
+Beacon: github.com/Asymptote-Labs/agent-beacon/pull/1242  
+Pangolin: github.com/fosrl/pangolin/pull/3971  
 Akaunting: github.com/akaunting/akaunting/pull/3416
